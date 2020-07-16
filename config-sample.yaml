@@ -1,0 +1,8 @@
+instance:
+  name: "instance-name"
+  type: "t2.micro"
+  ami-id: "ami-xxxxxxxxx"
+  security-group: "sg-xxxxxxxxx"
+  key-pair-name: "xxxxxx"
+  subnet-id: "subnet-xxxxxxxxxx"
+  install-docker: true
