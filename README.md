@@ -16,3 +16,6 @@ This kit includes convenience scripts to automate the setting up of EC2 instance
 ## How To Use
 1. Configure the config-sample.yaml to your desired settings and rename it to config.yaml.
 2. Run `bash launch-instance.sh`.
+
+## Notice
+1. This kit is configured to only work with mac and linux file systems. If you are using windows, you may have to change the structure of the file paths used in the source codes, in order for the kit to work as intended.
